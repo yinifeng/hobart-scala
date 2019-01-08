@@ -31,8 +31,6 @@ object VarDemo02 {
     //dog =new Dog
     dog.age = 90
     dog.name= "小花"
-    
-
 
   }
 }
